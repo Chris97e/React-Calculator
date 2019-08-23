@@ -1,0 +1,33 @@
+
+
+
+.Button{
+width: 10vw;
+height: 10vh;
+border: none;
+text-transform: capitalize;
+font-size: 30px;
+}
+
+.Button:hover{
+background-color: lightgrey;
+
+}
+
+.Button--number{
+font-weight: bold;
+background-color: white;
+}
+
+.Button--operation{
+    background-color: lightgray;
+}
+
+.Button--operation:hover{
+    background-color: lightseagreen;
+    color: white;
+}
+
+.Button--controller{
+    background-color: gainsboro;
+}
